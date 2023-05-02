@@ -1,4 +1,4 @@
-# miARma WebPage #
+# miARma WebPage - andre update #
 This is a new repository created in Oct 2021 to store the source code and the guides from miARma-seq. The guides will be available soon in the wiki.
 
 This repository contains the source code published in:
